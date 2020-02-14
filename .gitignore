@@ -1,0 +1,3 @@
+# ignore CSV files
+*.CSV
+node_modules

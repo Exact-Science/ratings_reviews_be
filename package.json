@@ -1,0 +1,23 @@
+{
+  "name": "reviews_services",
+  "version": "1.0.0",
+  "description": "Provides back-end services to the ratings and reviews module ",
+  "main": "datagenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exact-Science/ratings_reviews_be.git"
+  },
+  "author": "danielmjordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exact-Science/ratings_reviews_be/issues"
+  },
+  "homepage": "https://github.com/Exact-Science/ratings_reviews_be#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "moment": "^2.24.0"
+  }
+}
