@@ -1,2 +1,2 @@
 # ratings_reviews_be
-Back end services for the ratings and reviews module
+Provides back-end services for the ratings and reviews module
